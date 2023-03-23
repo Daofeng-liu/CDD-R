@@ -14,10 +14,10 @@ Training
 ---
 Example runs are:
 
-$ ./replicate_results.sh MNIST 6 ``````/* Train CDD-R on MNIST */
+$ ./replicate_results.sh MNIST 6 >>>>>>/* Train CDD-R on MNIST */
 
-$ ./replicate_results.sh CIFAR 5 ``````/* Train CDD-R on CIFAR */
+$ ./replicate_results.sh CIFAR 5 >>>>>>/* Train CDD-R on CIFAR */
 
-$ ./replicate_results.sh CUB 5 ``````/* Train CDD-R on CUB */
+$ ./replicate_results.sh CUB 5 >>>>>>/* Train CDD-R on CUB */
 
-$ ./replicate_results.sh AWA 9 ``````/* Train CDD-R on AWA */
+$ ./replicate_results.sh AWA 9 >>>>>>/* Train CDD-R on AWA */
